@@ -6,8 +6,8 @@
   },
   
   "wifi": {
-    "network": "Henry@home",
-    "password": "theBestNetwork"
+    "network": "Henry-Guest-House",
+    "password": "theGuestsAreIn"
   },
   
   "contact": {
