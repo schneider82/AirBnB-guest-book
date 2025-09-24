@@ -117,6 +117,15 @@
         "cuisine": "Western-Malaysian-Vietnamese fusion",
         "hours": "Mon-Sat: Lunch 11am-2:30pm, Dinner 5pm-9:30pm",
         "phone": "(07) 3857 1634"
+      },
+      {
+        "name": "Stones Corner Hotel",
+        "address": "Logan Road, Stones Corner",
+        "distance": "1.2km, 16-min walk",
+        "cuisine": "Australian Pub",
+        "hours": "Daily lunch & dinner",
+        "specialty": "Heritage pub with bistro, bar with 16 beers on tap",
+        "tip": "Historic 1888 hotel, central to Stones Corner shopping precinct"
       }
     ],
     "quickBites": [
@@ -219,7 +228,7 @@
       "name": "newsXpress",
       "address": "Shop 19, 700 Logan Road, Greenslopes Mall",
       "distance": "950m, 14-min walk",
-      "hours": "[HOURS TO BE VERIFIED]",
+      "hours": "Daily 8am-6pm",
       "phone": "(07) 3397 1000"
     },
     "liquor": {
@@ -263,14 +272,14 @@
         "name": "Greenslopes Medical Centre",
         "address": "715 Logan Road, Greenslopes",
         "distance": "850m, 13-min walk",
-        "feature": "[DETAILS TO BE VERIFIED]"
+        "feature": "General Practice clinic"
       },
       {
         "name": "Greenslopes Family Practice",
         "address": "7 Plimsoll Street, Greenslopes",
         "distance": "1.1km, 15-min walk",
-        "feature": "[DETAILS TO BE VERIFIED]",
-        "phone": "[PHONE TO BE VERIFIED]"
+        "feature": "General Practice clinic",
+        "phone": "(07) 3397 1875"
       },
       {
         "name": "Top Health Doctors",
@@ -305,12 +314,14 @@
   
   "banking": [
     {
-      "name": "Commonwealth Bank ATM",
-      "location": "[LOCATIONS TO BE VERIFIED]"
+      "name": "Cashcard ATM",
+      "location": "Next to IGA Greenslopes Marketplace, 620 Logan Road",
+      "distance": "600m, 10-min walk"
     },
     {
       "name": "Bank of Queensland ATM",
-      "location": "[LOCATIONS TO BE VERIFIED]"
+      "location": "304 Logan Road, Stones Corner (near Taro's Ramen)",
+      "distance": "1.3km, 18-min walk"
     }
   ],
   
@@ -327,10 +338,12 @@
   
   "localTips": [
     "Best for groceries: IGA opens earliest (6am) and latest (10pm)",
-    "24-hour needs: Hospital pharmacy confirmed 24/7",
+    "24-hour needs: Hospital pharmacy confirmed 24/7, NightOwl and 7-Eleven also 24/7",
     "Quick CBD access: Bus 180 is fastest (~14 min to Queen St)",
     "Parking: Greenslopes Mall has 600+ spaces",
-    "Sunday shopping: Most places open with reduced hours"
+    "Sunday shopping: Most places open with reduced hours",
+    "ATM: Cashcard ATM right next to IGA (very convenient), BOQ ATM near Taro's",
+    "Historic pub: Stones Corner Hotel (1888) - great for drinks and meals"
   ],
 
   "_correctionNotes": {
@@ -351,7 +364,13 @@
       "Replaced non-existent Broadway Newsagency with newsXpress in Greenslopes Mall",
       "Replaced BWS with better option: Kickon Bottleshop Stones Corner",
       "Updated all laundromat hours with accurate information",
-      "ALL DISTANCES NOW ACCURATE - calculated using Google Maps from 60 Henry Street"
+      "ALL DISTANCES NOW ACCURATE - calculated using Google Maps from 60 Henry Street",
+      "Added Stones Corner Hotel/pub to restaurant options",
+      "Updated newsXpress hours: Daily 8am-6pm",
+      "Updated Kickon Bottleshop hours: Daily 10am-10pm",
+      "Clarified GP clinics - both Medical Centre and Family Practice are GPs",
+      "Added Family Practice phone number: (07) 3397 1875",
+      "Updated banking with accurate ATM locations and distances"
     ],
     "verified": [
       "All restaurant addresses, hours, and phone numbers",
@@ -369,8 +388,7 @@
       "FURTHEST: Chili Coco (2.1km, 29min), laundromats in Stones Corner (1.4km, 19min)"
     ],
     "stillToVerify": [
-      "newsXpress opening hours",
-      "Kickon Bottleshop opening hours"
+      "Top Health Doctors clinic details"
     ]
   }
 }
