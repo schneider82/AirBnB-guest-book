@@ -285,7 +285,7 @@
         "name": "Top Health Doctors",
         "address": "Greenslopes Mall",
         "distance": "900m, 13-min walk",
-        "feature": "[DETAILS TO BE VERIFIED]"
+         "feature": "General Practice clinic"
       }
     ],
     "pharmacy24": {
@@ -338,9 +338,8 @@
   
   "localTips": [
     "Best for groceries: IGA opens earliest (6am) and latest (10pm)",
-    "24-hour needs: Hospital pharmacy confirmed 24/7, NightOwl and 7-Eleven also 24/7",
+    "24-hour needs: Hospital pharmacy 24/7, NightOwl and 7-Eleven also 24/7",
     "Quick CBD access: Bus 180 is fastest (~14 min to Queen St)",
-    "Parking: Greenslopes Mall has 600+ spaces",
     "Sunday shopping: Most places open with reduced hours",
     "ATM: Cashcard ATM right next to IGA (very convenient), BOQ ATM near Taro's",
     "Historic pub: Stones Corner Hotel (1888) - great for drinks and meals"
