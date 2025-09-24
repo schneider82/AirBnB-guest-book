@@ -1,0 +1,301 @@
+{
+  "guesthouse": {
+    "name": "The Henry Guesthouse",
+    "address": "60 Henry St, Greenslopes",
+    "tagline": "We hope you have a wonderful stay"
+  },
+  
+  "wifi": {
+    "network": "Henry@home",
+    "password": "theBestNetwork"
+  },
+  
+  "contact": {
+    "host": "Bronwyn Schneider",
+    "phone": "0401 959 102",
+    "email": "bronnyschneider@gmail.com"
+  },
+  
+  "houseRules": [
+    {
+      "icon": "🚭",
+      "title": "No Smoking",
+      "description": "This is a non-smoking property. Please smoke outside and dispose of cigarette butts properly."
+    },
+    {
+      "icon": "👥",
+      "title": "Registered Guests",
+      "description": "Only registered guests are allowed to stay overnight, with a maximum of 2 guests."
+    },
+    {
+      "icon": "🎉",
+      "title": "Parties and Events",
+      "description": "Parties and events are not permitted on the property. Please respect our neighbors and keep noise levels to a minimum."
+    },
+    {
+      "icon": "🐕",
+      "title": "Pets",
+      "description": "No Pets allowed"
+    }
+  ],
+  
+  "checkOut": {
+    "time": "10am",
+    "tasks": [
+      "Please dispose of all trash in the bins provided",
+      "Load dirty dishes in the dishwasher",
+      "Return keys to the lockbox and ensure the property is securely locked"
+    ]
+  },
+  
+  "hostFavorites": [
+    {
+      "name": "Moreish Cafe - Modern Australian Breakfast",
+      "address": "390a Logan Rd, Stones Corner",
+      "distance": "850m, 10-min walk",
+      "hours": "Mon-Fri 6:30am-2:30pm, Sat-Sun 7am-2:30pm",
+      "specialty": "House-made pastries, seasonal menu, excellent coffee",
+      "tip": "Weekend brunch gets busy - arrive before 9am!",
+      "phone": null
+    },
+    {
+      "name": "Morning Roast - 24/7 Coffee Culture",
+      "address": "436 Logan Rd, Stones Corner",
+      "distance": "750m, 9-min walk",
+      "hours": "24 hours, 7 days a week!",
+      "specialty": "Late night coffee, breakfast anytime",
+      "tip": "Great for early flights or late arrivals",
+      "phone": null
+    },
+    {
+      "name": "Rock'n'Roll Marketplace - Unique Food Shopping",
+      "address": "572 Logan Rd, Greenslopes",
+      "distance": "400m, 5-min walk",
+      "hours": "Daily 6am-8pm",
+      "specialty": "Artisan baked goods, fresh produce, gourmet items",
+      "tip": "Best coffee and fresh fruit/veg in the area!",
+      "phone": null
+    }
+  ],
+  
+  "food": {
+    "restaurants": [
+      {
+        "name": "Vindie Restaurant",
+        "address": "389 Cornwall St",
+        "distance": "400-600m",
+        "cuisine": "Western-Malaysian-Vietnamese fusion",
+        "hours": "Lunch & dinner Mon-Sat",
+        "phone": "(07) 3857 1634"
+      },
+      {
+        "name": "Kabir Indian Cuisine",
+        "address": "2/360 Logan Rd",
+        "cuisine": "Authentic Indian",
+        "rating": "4.8",
+        "phone": null
+      }
+    ],
+    "quickBites": [
+      {
+        "name": "KFC",
+        "address": "592 Logan Road",
+        "hours": "10am-10pm",
+        "phone": null
+      },
+      {
+        "name": "Miss India",
+        "address": "1/575 Logan Rd",
+        "hours": "10:30am-9:30pm",
+        "phone": "(07) 3397 5282"
+      }
+    ]
+  },
+  
+  "shopping": {
+    "supermarkets": [
+      {
+        "name": "IGA Greenslopes Marketplace",
+        "address": "620 Logan Road",
+        "distance": "800m",
+        "hours": "6am-10pm daily (including holidays!)",
+        "tip": "Best hours - opens earliest and closes latest"
+      },
+      {
+        "name": "Coles Greenslopes Mall",
+        "address": "700 Logan Road",
+        "distance": "700m",
+        "hours": "Mon-Sat: 7am-9pm, Sun: 9am-6pm",
+        "tip": "Nearly 600 parking spaces available"
+      }
+    ],
+    "convenience": [
+      {
+        "name": "NightOwl Convenience Store",
+        "address": "476 Logan Rd",
+        "hours": "24/7",
+        "phone": "(07) 3847 4633"
+      },
+      {
+        "name": "7-Eleven Greenslopes",
+        "address": "Cnr Logan Road & Chatsworth Road",
+        "distance": "700m",
+        "hours": "24/7",
+        "features": "Convenience store, fuel"
+      }
+    ],
+    "laundromats": [
+      {
+        "name": "WaterSpirit Laundromat",
+        "address": "Shop 8, 620 Logan Rd",
+        "distance": "500m walk",
+        "hours": "24/7 self-service",
+        "features": "Card payments accepted"
+      },
+      {
+        "name": "Excel Laundry Greenslopes",
+        "address": "619 Logan Rd",
+        "distance": "550m",
+        "hours": "24/7 self-service",
+        "phone": "0411 761 126"
+      },
+      {
+        "name": "Sunlight Laundromat",
+        "address": "Shop 3/650 Logan Rd",
+        "distance": "700m",
+        "hours": "6am-9pm daily",
+        "features": "Wash & fold service available"
+      },
+      {
+        "name": "eLaundry Stones Corner",
+        "address": "288 Logan Rd",
+        "distance": "700m",
+        "hours": "Mon-Fri 7am-6pm, Sat 8am-2pm",
+        "features": "Eco-friendly dry cleaning"
+      },
+      {
+        "name": "Green Dry Cleaners",
+        "address": "Shop T3/620 Logan Rd",
+        "distance": "500m",
+        "phone": "(07) 3394 4826",
+        "features": "Eco-friendly cleaning"
+      }
+    ],
+    "pharmacies": [
+      {
+        "name": "Greenslopes Discount Drug Store",
+        "address": "Greenslopes Mall",
+        "hours": "Mon-Fri 8:30am-6pm, Sat 9am-5pm, Sun 10am-3pm",
+        "features": "Vaccinations available"
+      }
+    ],
+    "newsagency": {
+      "name": "Broadway Newsagency",
+      "address": "Shop 2/650 Logan Rd",
+      "distance": "700m",
+      "hours": "Mon-Fri 5:30am-5:30pm, Sat 6am-4pm, Sun 6am-2pm",
+      "phone": "(07) 3397 3677"
+    },
+    "liquor": {
+      "name": "BWS Greenslopes",
+      "address": "700 Logan Rd (in Greenslopes Mall)",
+      "distance": "700m",
+      "hours": "Mon-Sat: 9am-9pm, Sun: 10am-8pm"
+    }
+  },
+  
+  "transport": [
+    {
+      "type": "🚉 Greenslopes Station",
+      "distance": "500m walk (6 minutes)",
+      "info": "Direct to Brisbane CBD"
+    },
+    {
+      "type": "🚌 Bus Stop (Logan Rd)",
+      "distance": "100m walk",
+      "info": "Routes 180, 184, 185\n14 min to Queen St (Bus 180)"
+    },
+    {
+      "type": "🚕 Taxi & Rideshare",
+      "distance": null,
+      "info": "Black & White Cabs: 133 222\nYellow Cab: 131 924\nUber & DiDi available"
+    }
+  ],
+  
+  "medical": {
+    "hospital": {
+      "name": "Greenslopes Private Hospital",
+      "service": "24/7 Emergency Centre",
+      "address": "125 Newdegate St",
+      "phone": "(07) 3394 7111"
+    },
+    "gps": [
+      {
+        "name": "Greenslopes Medical Centre",
+        "address": "715 Logan Rd",
+        "feature": "Walk-in mornings available"
+      },
+      {
+        "name": "Greenslopes Family Practice",
+        "address": "7 Plimsoll St",
+        "feature": "Emergency appointments",
+        "phone": "Check locally"
+      },
+      {
+        "name": "Top Health Doctors",
+        "address": "Greenslopes Mall",
+        "feature": "Bulk billing options"
+      }
+    ],
+    "pharmacy24": {
+      "name": "Ramsay Pharmacy",
+      "location": "Greenslopes Hospital, 125 Newdegate St",
+      "hours": "24/7",
+      "phone": "(07) 3329 4899"
+    }
+  },
+  
+  "emergency": {
+    "services": {
+      "number": "000",
+      "description": "Police, Fire, Ambulance"
+    },
+    "hospital": {
+      "name": "Hospital Emergency",
+      "number": "(07) 3394 7111"
+    },
+    "policeNonEmergency": {
+      "name": "Police (Non-emergency)",
+      "number": "131 444"
+    }
+  },
+  
+  "banking": [
+    {
+      "name": "Commonwealth Bank ATM",
+      "location": "Greenslopes Mall & Corner Earle/Juliette Streets"
+    },
+    {
+      "name": "Bank of Queensland ATM",
+      "location": "Newdegate Street"
+    }
+  ],
+  
+  "recreation": {
+    "name": "Hanlon Park",
+    "address": "51 Lincoln Street",
+    "features": [
+      "$21.5M nature playground",
+      "Basketball court, BBQ facilities",
+      "Norman Creek waterway access"
+    ]
+  },
+  
+  "localTips": [
+    "Best for groceries: IGA opens earliest (6am) and latest (10pm)",
+    "24-hour needs: NightOwl convenience store or hospital pharmacy",
+    "Quick CBD access: Bus 180 is fastest (14 min to Queen St)",
+    "Parking: Greenslopes Mall has 600+ spaces",
+    "Sunday shopping: Most places open with reduced hours"
+  ]
+}
