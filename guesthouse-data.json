@@ -61,7 +61,7 @@
     {
       "name": "Mourning Roast - Coffee Culture",
       "address": "337 Logan Road, Greenslopes",
-      "distance": "1.2km, 16-min walk",
+              "distance": "1.2km, 16-min walk",
       "hours": "Daily 4am-11pm",
       "specialty": "Early morning & late night coffee, specialty blends",
       "tip": "Great for early flights or late arrivals",
@@ -175,7 +175,7 @@
       {
         "name": "7-Eleven Greenslopes",
         "address": "99 Juliette Street, Greenslopes",
-        "distance": "300m, 4-min walk",
+        "distance": "1.2km, 16-min walk",
         "hours": "24/7",
         "features": "Convenience store, fuel"
       }
