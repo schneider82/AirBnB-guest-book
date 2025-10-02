@@ -9,13 +9,7 @@
     "network": "Henry-Guest-House",
     "password": "theGuestsAreIn"
   },
-  
-  "contact": {
-    "host": "Bronwyn Schneider",
-    "phone": "0401 959 102",
-    "email": "bronnyschneider@gmail.com"
-  },
-  
+   
   "houseRules": [
     {
       "icon": "🚭",
